@@ -21,7 +21,7 @@ const Home = () => (
                 <img src="http://localhost:8080/img/jest-puppeteer.png" alt="Jest + Puppeteer"/>
             </div>
         </div> 
-        <h2 className="link_header">Link to the <a className="repo_link" href="https://github.com/mansuur-ahmed/FTCC/tree/master/Js%20based" target="_blank">GitHub Repository</a></h2>
+        <h2 className="link_header">Link to the <a className="repo_link" href="https://github.com/mansuur-ahmed/jest-puppeteer/" target="_blank">GitHub Repository</a></h2>
     </div>
 );
 
